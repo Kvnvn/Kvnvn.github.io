@@ -1,0 +1,60 @@
+html {
+  cursor: url("https://img.icons8.com/color/50/000000/basketball.png"), auto;
+}
+.profile {height: 30rem;}
+
+.header1{margin-top: -13rem;}
+
+.home-content{
+    height: 79vh;
+    padding: 14px;
+    color: darkorange;
+}
+.heading1{
+    padding-top: 22%;
+}
+.aboutMe{
+    font-size: 42px;
+    color: floralwhite;
+    margin-bottom: 6rem;
+
+}
+.about-content{
+    padding: 11px;
+}
+.col-md-offset-5{
+    margin-left: 52.666667%;
+}
+.linkin{
+  width: 4rem;
+
+}
+.git {
+  width: 4rem;
+}
+.gmail {
+  width: 4rem;
+}
+.aboutMe {
+  text-align: center;
+  font-family: monospace;
+}
+p{
+  font-family: monospace;
+  font-size: 15px;
+}
+.primary-button a {
+  background-color: darkorange !important;
+}
+.home-content .left-text h4 em {color: darkorange;}
+.home-content h1 em {font-size: 72px; margin-left: -7rem; color: darkorange;}
+.home-content h1 {margin-left: 9rem;}
+.header2{text-align: center;}
+.about-content .about-box-text {margin-right: -7rem;}
+.heading h4{color: darkorange;}
+.projects-content .text-content {
+  margin-left: -3px;
+  margin-right: -16px;
+  padding: 4px 4px;
+  margin-top: -9px;
+}
