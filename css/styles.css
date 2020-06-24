@@ -26,14 +26,20 @@ html {
     margin-left: 52.666667%;
 }
 .linkin{
-  width: 4rem;
+  width: 6rem;
 
 }
+.resume{
+  width: 6rem;
+  margin-left: 16rem;
+  margin-top: 1rem;
+}
 .git {
-  width: 4rem;
+  width: 6rem;
 }
 .gmail {
-  width: 4rem;
+  width: 6rem;
+ 
 }
 .aboutMe {
   text-align: center;
@@ -46,6 +52,7 @@ p{
 .primary-button a {
   background-color: darkorange !important;
   margin-top: 1rem;
+  margin-bottom: 9px;
 }
 .home-content .left-text h4 em {color: darkorange;}
 .home-content h1 em {font-size: 72px; margin-left: -7rem; color: darkorange;}
@@ -59,3 +66,5 @@ p{
   padding: 4px 4px;
   margin-top: -9px;
 }
+.contact-content .more-info{position: fixed; margin-right: 246px;}
+
