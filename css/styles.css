@@ -45,6 +45,7 @@ p{
 }
 .primary-button a {
   background-color: darkorange !important;
+  margin-top: 1rem;
 }
 .home-content .left-text h4 em {color: darkorange;}
 .home-content h1 em {font-size: 72px; margin-left: -7rem; color: darkorange;}
